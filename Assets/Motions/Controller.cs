@@ -15,7 +15,7 @@ public class NewBehaviourScript : MonoBehaviour
     void Update() {
         this._animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
         this._animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
-        characterMotion();
+        //characterMotion();
     }
     
 
