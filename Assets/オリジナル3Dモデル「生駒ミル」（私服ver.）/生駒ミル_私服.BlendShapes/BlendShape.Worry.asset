@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_prefab: {fileID: 0}
   BlendShapeName: Worry
-  Preset: 0
+  Preset: 13
   Values:
   - RelativePath: Face
     Index: 3
-    Weight: 35
+    Weight: 4.4
   - RelativePath: Face
     Index: 28
     Weight: 100
@@ -32,4 +32,4 @@ MonoBehaviour:
     Index: 0
     Weight: 100
   MaterialValues: []
-  IsBinary: 0
+  IsBinary: 1
